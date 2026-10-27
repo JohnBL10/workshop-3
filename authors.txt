@@ -1,7 +1,3 @@
 Fabien Rozar
-<<<<<<< HEAD
 Rajan Pouniandy
 Jeremie Ravalison
-=======
-Jeremie Ravalison
->>>>>>> 3620f6ea36ccfada476d928f9645346603ff9067
